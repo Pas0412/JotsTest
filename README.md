@@ -1,16 +1,15 @@
-# jots
+# Jots test
 
 A new Flutter application of Jots
 
-## Getting Started
+## IDE
 
-This project is a starting point for a Flutter application.
+Android Studio
 
-A few resources to get you started if this is your first Flutter project:
+## Simulator
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Xcode on MacOS
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Example Image
+
+<img width="303" alt="image" src="https://user-images.githubusercontent.com/68329670/176768362-76c2d82b-8209-4225-833f-8b43e83d7fa4.png">
